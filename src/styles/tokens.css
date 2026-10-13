@@ -1,0 +1,19 @@
+:root {
+  --c-bg: #f6f5f0;
+  --c-ink: #12233a;
+  --c-ink-muted: rgba(18, 35, 58, 0.68);
+  --c-line: rgba(18, 35, 58, 0.14);
+  --c-gold: #c99a3b;
+  --c-gold-soft: rgba(201, 154, 59, 0.18);
+  --c-green: #0e4f3d;
+  --c-placeholder: #757575;
+
+  --f-display: 'Space Grotesk', system-ui, sans-serif;
+  --f-body: 'Source Serif 4', Georgia, serif;
+
+  --radius: 3px;
+  --hairline: 1px solid var(--c-line);
+  --wrap: 1080px;
+  --gutter: 28px;
+  --section-y: 72px;
+}
